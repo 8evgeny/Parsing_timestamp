@@ -1,0 +1,1269 @@
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-8, video_after-5, video_before-10
+images1-1570082167587.jpg, time - 03.10.2019 08:56:07
+images2-1570082177872.jpg, time - 03.10.2019 08:56:17
+images3-1570082172729.2727BA15RUS.car.jpg, time - 03.10.2019 08:56:12
+images4-1570082172729.2727BA15RUS.plate.jpg, time - 03.10.2019 08:56:12
+images5-1570082185920.jpg, time - 03.10.2019 08:56:25
+images6-1570082194444.jpg, time - 03.10.2019 08:56:34
+images7-1570082194208.jpg, time - 03.10.2019 08:56:34
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-12, video_after-5, video_before-19
+images1-1570087184441.jpg, time - 03.10.2019 10:19:44
+images2-1570087204155.jpg, time - 03.10.2019 10:20:04
+images3-1570087191584.A058AT777RUS.car.jpg, time - 03.10.2019 10:19:51
+images4-1570087191584.A058AT777RUS.plate.jpg, time - 03.10.2019 10:19:51
+images5-1570087197520.jpg, time - 03.10.2019 10:19:57
+images6-1570087210155.jpg, time - 03.10.2019 10:20:10
+images7-1570087210220.jpg, time - 03.10.2019 10:20:10
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-10, video_after-5, video_before-13
+images1-1570088239304.jpg, time - 03.10.2019 10:37:19
+images2-1570088253019.jpg, time - 03.10.2019 10:37:33
+images3-1570088269877.A060OX799RUS.car.jpg, time - 03.10.2019 10:37:49
+images4-1570088269877.A060OX799RUS.plate.jpg, time - 03.10.2019 10:37:49
+images5-1570088251967.jpg, time - 03.10.2019 10:37:31
+images6-1570088262162.jpg, time - 03.10.2019 10:37:42
+images7-1570088262216.jpg, time - 03.10.2019 10:37:42
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-5, video_after-5, video_before-18
+images1-1570076218437.jpg, time - 03.10.2019 07:16:58
+images2-1570076236437.jpg, time - 03.10.2019 07:17:16
+images3-1570076235009.A151AO97RUS.car.jpg, time - 03.10.2019 07:17:15
+images4-1570076235009.A151AO97RUS.plate.jpg, time - 03.10.2019 07:17:15
+images5-1570076237891.jpg, time - 03.10.2019 07:17:17
+images6-1570076243866.jpg, time - 03.10.2019 07:17:23
+images7-1570076243161.jpg, time - 03.10.2019 07:17:23
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-10, video_after-5, video_before-8
+images1-1570090654723.jpg, time - 03.10.2019 11:17:34
+images2-1570090663009.jpg, time - 03.10.2019 11:17:43
+images3-1570090660437.A182XE17RUS.car.jpg, time - 03.10.2019 11:17:40
+images4-1570090660437.A182XE17RUS.plate.jpg, time - 03.10.2019 11:17:40
+images5-1570090666225.jpg, time - 03.10.2019 11:17:46
+images6-1570090676437.jpg, time - 03.10.2019 11:17:56
+images7-1570090676241.jpg, time - 03.10.2019 11:17:56
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-8, video_after-5, video_before-47
+images1-1570088330450.jpg, time - 03.10.2019 10:38:50
+images2-1570088377880.jpg, time - 03.10.2019 10:39:37
+images3-1570088374737.A458KB75RUS.car.jpg, time - 03.10.2019 10:39:34
+images4-1570088374737.A458KB75RUS.plate.jpg, time - 03.10.2019 10:39:34
+images5-1570088383725.jpg, time - 03.10.2019 10:39:43
+images6-1570088392737.jpg, time - 03.10.2019 10:39:52
+images7-1570088392506.jpg, time - 03.10.2019 10:39:52
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-5, video_after-5, video_before-24
+images1-1570076732151.jpg, time - 03.10.2019 07:25:32
+images2-1570076756152.jpg, time - 03.10.2019 07:25:56
+images3-1570076778154.A497YK190RUS.car.jpg, time - 03.10.2019 07:26:18
+images4-1570076778154.A497YK190RUS.plate.jpg, time - 03.10.2019 07:26:18
+images5-1570076766653.jpg, time - 03.10.2019 07:26:06
+images6-1570076771011.jpg, time - 03.10.2019 07:26:11
+images7-1570076771684.jpg, time - 03.10.2019 07:26:11
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-24, video_after-5, video_before-9
+images1-1570079007869.jpg, time - 03.10.2019 08:03:27
+images2-1570079017012.jpg, time - 03.10.2019 08:03:37
+images3-1570079056726.AK998P97RUS.car.jpg, time - 03.10.2019 08:04:16
+images4-1570079056726.AK998P97RUS.plate.jpg, time - 03.10.2019 08:04:16
+images5-1570079014663.jpg, time - 03.10.2019 08:03:34
+images6-1570079038440.jpg, time - 03.10.2019 08:03:58
+images7-1570079038700.jpg, time - 03.10.2019 08:03:58
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-7, video_after-5, video_before-80
+images1-1570082089873.jpg, time - 03.10.2019 08:54:49
+images2-1570082170730.jpg, time - 03.10.2019 08:56:10
+images3-1570082219874.A523EP50RUS.car.jpg, time - 03.10.2019 08:56:59
+images4-1570082219874.A523EP50RUS.plate.jpg, time - 03.10.2019 08:56:59
+images5-1570082187472.jpg, time - 03.10.2019 08:56:27
+images6-1570082194729.jpg, time - 03.10.2019 08:56:34
+images7-1570082194719.jpg, time - 03.10.2019 08:56:34
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-14, video_after-5, video_before-14
+images1-1570078874442.jpg, time - 03.10.2019 08:01:14
+images2-1570078888727.jpg, time - 03.10.2019 08:01:28
+images3-1570078876442.A577KY799RUS.car.jpg, time - 03.10.2019 08:01:16
+images4-1570078876442.A577KY799RUS.plate.jpg, time - 03.10.2019 08:01:16
+images5-1570078882902.jpg, time - 03.10.2019 08:01:22
+images6-1570078897584.jpg, time - 03.10.2019 08:01:37
+images7-1570078896939.jpg, time - 03.10.2019 08:01:36
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-7, video_after-5, video_before-53
+images1-1570090223583.jpg, time - 03.10.2019 11:10:23
+images2-1570090277010.jpg, time - 03.10.2019 11:11:17
+images3-1570090255868.A639AE177RUS.car.jpg, time - 03.10.2019 11:10:55
+images4-1570090255868.A639AE177RUS.plate.jpg, time - 03.10.2019 11:10:55
+images5-1570090296793.jpg, time - 03.10.2019 11:11:36
+images6-1570090304724.jpg, time - 03.10.2019 11:11:44
+images7-1570090304224.jpg, time - 03.10.2019 11:11:44
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-8, video_after-5, video_before-21
+images1-1570076739009.jpg, time - 03.10.2019 07:25:39
+images2-1570076760438.jpg, time - 03.10.2019 07:26:00
+images3-1570076742437.TRIAL.car.jpg, time - 03.10.2019 07:25:42
+images4-1570076742437.TRIAL.plate.jpg, time - 03.10.2019 07:25:42
+images5-1570076767160.jpg, time - 03.10.2019 07:26:07
+images6-1570076775868.jpg, time - 03.10.2019 07:26:15
+images7-1570076775450.jpg, time - 03.10.2019 07:26:15
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-7, video_after-5, video_before-9
+images1-1570090763009.jpg, time - 03.10.2019 11:19:23
+images2-1570090772438.jpg, time - 03.10.2019 11:19:32
+images3-1570090765581.A852AX777RUS.car.jpg, time - 03.10.2019 11:19:25
+images4-1570090765581.A852AX777RUS.plate.jpg, time - 03.10.2019 11:19:25
+images5-1570090793538.jpg, time - 03.10.2019 11:19:53
+images6-1570090801009.jpg, time - 03.10.2019 11:20:01
+images7-1570090801258.jpg, time - 03.10.2019 11:20:01
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-6, video_after-5, video_before-28
+images1-1570080416721.jpg, time - 03.10.2019 08:26:56
+images2-1570080445007.jpg, time - 03.10.2019 08:27:25
+images3-1570080469292.TRIAL.car.jpg, time - 03.10.2019 08:27:49
+images4-1570080469292.TRIAL.plate.jpg, time - 03.10.2019 08:27:49
+images5-1570080462686.jpg, time - 03.10.2019 08:27:42
+images6-1570080469292.jpg, time - 03.10.2019 08:27:49
+images7-1570080469460.jpg, time - 03.10.2019 08:27:49
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-5, video_after-5, video_before-19
+images1-1570083617876.jpg, time - 03.10.2019 09:20:17
+images2-1570083637591.jpg, time - 03.10.2019 09:20:37
+images3-1570083643876.A987AO799RUS.car.jpg, time - 03.10.2019 09:20:43
+images4-1570083643876.A987AO799RUS.plate.jpg, time - 03.10.2019 09:20:43
+images5-1570083639933.jpg, time - 03.10.2019 09:20:39
+images6-1570083646162.jpg, time - 03.10.2019 09:20:46
+images7-1570083645497.jpg, time - 03.10.2019 09:20:45
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-9, video_after-5, video_before-45
+images1-1570076989874.jpg, time - 03.10.2019 07:29:49
+images2-1570077035017.jpg, time - 03.10.2019 07:30:35
+images3-1570076999017.TRIAL.car.jpg, time - 03.10.2019 07:29:59
+images4-1570076999017.TRIAL.plate.jpg, time - 03.10.2019 07:29:59
+images5-1570077030890.jpg, time - 03.10.2019 07:30:30
+images6-1570077040445.jpg, time - 03.10.2019 07:30:40
+images7-1570077040149.jpg, time - 03.10.2019 07:30:40
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-7, video_after-5, video_before-18
+images1-1570091033871.jpg, time - 03.10.2019 11:23:53
+images2-1570091051871.jpg, time - 03.10.2019 11:24:11
+images3-1570091060156.B246HE21RUS.car.jpg, time - 03.10.2019 11:24:20
+images4-1570091060156.B246HE21RUS.plate.jpg, time - 03.10.2019 11:24:20
+images5-1570091047563.jpg, time - 03.10.2019 11:24:07
+images6-1570091055299.jpg, time - 03.10.2019 11:24:15
+images7-1570091055270.jpg, time - 03.10.2019 11:24:15
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-5, video_after-5, video_before-21
+images1-1570077932168.jpg, time - 03.10.2019 07:45:32
+images2-1570077953597.jpg, time - 03.10.2019 07:45:53
+images3-1570077951311.B262YK777RUS.car.jpg, time - 03.10.2019 07:45:51
+images4-1570077951311.B262YK777RUS.plate.jpg, time - 03.10.2019 07:45:51
+images5-1570077954911.jpg, time - 03.10.2019 07:45:54
+images6-1570077960169.jpg, time - 03.10.2019 07:46:00
+images7-1570077960135.jpg, time - 03.10.2019 07:46:00
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-10, video_after-5, video_before-14
+images1-1570080029579.jpg, time - 03.10.2019 08:20:29
+images2-1570080043864.jpg, time - 03.10.2019 08:20:43
+images3-1570080040721.B335KE19RUS.car.jpg, time - 03.10.2019 08:20:40
+images4-1570080040721.B335KE19RUS.plate.jpg, time - 03.10.2019 08:20:40
+images5-1570080073462.jpg, time - 03.10.2019 08:21:13
+images6-1570080084150.jpg, time - 03.10.2019 08:21:24
+images7-1570080084154.jpg, time - 03.10.2019 08:21:24
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-5, video_after-5, video_before-69
+images1-1570076398722.jpg, time - 03.10.2019 07:19:58
+images2-1570076468151.jpg, time - 03.10.2019 07:21:08
+images3-1570076431008.B416YE750RUS.car.jpg, time - 03.10.2019 07:20:31
+images4-1570076431008.B416YE750RUS.plate.jpg, time - 03.10.2019 07:20:31
+images5-1570076501909.jpg, time - 03.10.2019 07:21:41
+images6-1570076507864.jpg, time - 03.10.2019 07:21:47
+images7-1570076507123.jpg, time - 03.10.2019 07:21:47
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-9, video_after-5, video_before-6
+images1-1570084689872.jpg, time - 03.10.2019 09:38:09
+images2-1570084696729.jpg, time - 03.10.2019 09:38:16
+images3-1570084694729.B514HM777RUS.car.jpg, time - 03.10.2019 09:38:14
+images4-1570084694729.B514HM777RUS.plate.jpg, time - 03.10.2019 09:38:14
+images5-1570084695496.jpg, time - 03.10.2019 09:38:15
+images6-1570084704157.jpg, time - 03.10.2019 09:38:24
+images7-1570084704714.jpg, time - 03.10.2019 09:38:24
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-6, video_after-5, video_before-11
+images1-1570080193007.jpg, time - 03.10.2019 08:23:13
+images2-1570080204150.jpg, time - 03.10.2019 08:23:24
+images3-1570080196150.TRIAL.car.jpg, time - 03.10.2019 08:23:16
+images4-1570080196150.TRIAL.plate.jpg, time - 03.10.2019 08:23:16
+images5-1570080204178.jpg, time - 03.10.2019 08:23:24
+images6-1570080211579.jpg, time - 03.10.2019 08:23:31
+images7-1570080211157.jpg, time - 03.10.2019 08:23:31
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-6, video_after-5, video_before-9
+images1-1570080713298.jpg, time - 03.10.2019 08:31:53
+images2-1570080722727.jpg, time - 03.10.2019 08:32:02
+images3-1570080734727.B742TT152RUS.car.jpg, time - 03.10.2019 08:32:14
+images4-1570080734727.B742TT152RUS.plate.jpg, time - 03.10.2019 08:32:14
+images5-1570080726674.jpg, time - 03.10.2019 08:32:06
+images6-1570080733870.jpg, time - 03.10.2019 08:32:13
+images7-1570080733436.jpg, time - 03.10.2019 08:32:13
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-7, video_after-5, video_before-63
+images1-1570080137293.jpg, time - 03.10.2019 08:22:17
+images2-1570080200722.jpg, time - 03.10.2019 08:23:20
+images3-1570080215579.B859EX750RUS.car.jpg, time - 03.10.2019 08:23:35
+images4-1570080215579.B859EX750RUS.plate.jpg, time - 03.10.2019 08:23:35
+images5-1570080202904.jpg, time - 03.10.2019 08:23:22
+images6-1570080210150.jpg, time - 03.10.2019 08:23:30
+images7-1570080210716.jpg, time - 03.10.2019 08:23:30
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-8, video_after-5, video_before-13
+images1-1570075166165.jpg, time - 03.10.2019 06:59:26
+images2-1570075179594.jpg, time - 03.10.2019 06:59:39
+images3-1570075172451.B889MK197RUS.car.jpg, time - 03.10.2019 06:59:32
+images4-1570075172451.B889MK197RUS.plate.jpg, time - 03.10.2019 06:59:32
+images5-1570075185161.jpg, time - 03.10.2019 06:59:45
+images6-1570075193022.jpg, time - 03.10.2019 06:59:53
+images7-1570075193447.jpg, time - 03.10.2019 06:59:53
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-12, video_after-5, video_before-6
+images1-1570084816728.jpg, time - 03.10.2019 09:40:16
+images2-1570084823586.jpg, time - 03.10.2019 09:40:23
+images3-1570084820728.TRIAL.car.jpg, time - 03.10.2019 09:40:20
+images4-1570084820728.TRIAL.plate.jpg, time - 03.10.2019 09:40:20
+images5-1570084819984.jpg, time - 03.10.2019 09:40:19
+images6-1570084832157.jpg, time - 03.10.2019 09:40:32
+images7-1570084832703.jpg, time - 03.10.2019 09:40:32
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-10, video_after-5, video_before-7
+images1-1570075178165.jpg, time - 03.10.2019 06:59:38
+images2-1570075185593.jpg, time - 03.10.2019 06:59:45
+images3-1570075179594.B941KY799RUS.car.jpg, time - 03.10.2019 06:59:39
+images4-1570075179594.B941KY799RUS.plate.jpg, time - 03.10.2019 06:59:39
+images5-1570075184693.jpg, time - 03.10.2019 06:59:44
+images6-1570075195307.jpg, time - 03.10.2019 06:59:55
+images7-1570075195409.jpg, time - 03.10.2019 06:59:55
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-28, video_after-5, video_before-49
+images1-1570079512724.jpg, time - 03.10.2019 08:11:52
+images2-1570079561866.jpg, time - 03.10.2019 08:12:41
+images3-1570079595866.E066TE750RUS.car.jpg, time - 03.10.2019 08:13:15
+images4-1570079595866.E066TE750RUS.plate.jpg, time - 03.10.2019 08:13:15
+images5-1570079543959.jpg, time - 03.10.2019 08:12:23
+images6-1570079572723.jpg, time - 03.10.2019 08:12:52
+images7-1570079572507.jpg, time - 03.10.2019 08:12:52
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-8, video_after-5, video_before-26
+images1-1570086515875.jpg, time - 03.10.2019 10:08:35
+images2-1570086542161.jpg, time - 03.10.2019 10:09:02
+images3-1570086549018.TRIAL.car.jpg, time - 03.10.2019 10:09:09
+images4-1570086549018.TRIAL.plate.jpg, time - 03.10.2019 10:09:09
+images5-1570086541176.jpg, time - 03.10.2019 10:09:01
+images6-1570086549018.jpg, time - 03.10.2019 10:09:09
+images7-1570086549214.jpg, time - 03.10.2019 10:09:09
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-31, video_after-5, video_before-17
+images1-1570078728443.jpg, time - 03.10.2019 07:58:48
+images2-1570078745871.jpg, time - 03.10.2019 07:59:05
+images3-1570078794728.E229EM50RUS.car.jpg, time - 03.10.2019 07:59:54
+images4-1570078794728.E229EM50RUS.plate.jpg, time - 03.10.2019 07:59:54
+images5-1570078749911.jpg, time - 03.10.2019 07:59:09
+images6-1570078781871.jpg, time - 03.10.2019 07:59:41
+images7-1570078781154.jpg, time - 03.10.2019 07:59:41
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-18, video_after-5, video_before-23
+images1-1570082170444.jpg, time - 03.10.2019 08:56:10
+images2-1570082194158.jpg, time - 03.10.2019 08:56:34
+images3-1570082213874.E717PE177RUS.car.jpg, time - 03.10.2019 08:56:53
+images4-1570082213874.E717PE177RUS.plate.jpg, time - 03.10.2019 08:56:53
+images5-1570082185920.jpg, time - 03.10.2019 08:56:25
+images6-1570082204159.jpg, time - 03.10.2019 08:56:44
+images7-1570082204204.jpg, time - 03.10.2019 08:56:44
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-6, video_after-5, video_before-22
+images1-1570076349008.jpg, time - 03.10.2019 07:19:09
+images2-1570076371865.jpg, time - 03.10.2019 07:19:31
+images3-1570076375008.TRIAL.car.jpg, time - 03.10.2019 07:19:35
+images4-1570076375008.TRIAL.plate.jpg, time - 03.10.2019 07:19:35
+images5-1570076369919.jpg, time - 03.10.2019 07:19:29
+images6-1570076376151.jpg, time - 03.10.2019 07:19:36
+images7-1570076376485.jpg, time - 03.10.2019 07:19:36
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-20, video_after-5, video_before-63
+images1-1570085555872.jpg, time - 03.10.2019 09:52:35
+images2-1570085619017.jpg, time - 03.10.2019 09:53:39
+images3-1570085570158.E767KX97RUS.car.jpg, time - 03.10.2019 09:52:50
+images4-1570085570158.E767KX97RUS.plate.jpg, time - 03.10.2019 09:52:50
+images5-1570085615726.jpg, time - 03.10.2019 09:53:35
+images6-1570085635589.jpg, time - 03.10.2019 09:53:55
+images7-1570085635972.jpg, time - 03.10.2019 09:53:55
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-22, video_after-5, video_before-67
+images1-1570082357591.jpg, time - 03.10.2019 08:59:17
+images2-1570082425019.jpg, time - 03.10.2019 09:00:25
+images3-1570082515018.E850AP777RUS.car.jpg, time - 03.10.2019 09:01:55
+images4-1570082515018.E850AP777RUS.plate.jpg, time - 03.10.2019 09:01:55
+images5-1570082447182.jpg, time - 03.10.2019 09:00:47
+images6-1570082469305.jpg, time - 03.10.2019 09:01:09
+images7-1570082469715.jpg, time - 03.10.2019 09:01:09
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-9, video_after-5, video_before-26
+images1-1570088230161.jpg, time - 03.10.2019 10:37:10
+images2-1570088256162.jpg, time - 03.10.2019 10:37:36
+images3-1570088231589.E988PO69RUS.car.jpg, time - 03.10.2019 10:37:11
+images4-1570088231589.E988PO69RUS.plate.jpg, time - 03.10.2019 10:37:11
+images5-1570088251967.jpg, time - 03.10.2019 10:37:31
+images6-1570088261591.jpg, time - 03.10.2019 10:37:41
+images7-1570088261964.jpg, time - 03.10.2019 10:37:41
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-7, video_after-5, video_before-32
+images1-1570080162436.jpg, time - 03.10.2019 08:22:42
+images2-1570080195007.jpg, time - 03.10.2019 08:23:15
+images3-1570080192436.TRIAL.car.jpg, time - 03.10.2019 08:23:12
+images4-1570080192436.TRIAL.plate.jpg, time - 03.10.2019 08:23:12
+images5-1570080203166.jpg, time - 03.10.2019 08:23:23
+images6-1570080210150.jpg, time - 03.10.2019 08:23:30
+images7-1570080210185.jpg, time - 03.10.2019 08:23:30
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-32, video_after-5, video_before-92
+images1-1570085661020.jpg, time - 03.10.2019 09:54:21
+images2-1570085753596.jpg, time - 03.10.2019 09:55:53
+images3-1570085785883.TRIAL.car.jpg, time - 03.10.2019 09:56:25
+images4-1570085785883.TRIAL.plate.jpg, time - 03.10.2019 09:56:25
+images5-1570085743724.jpg, time - 03.10.2019 09:55:43
+images6-1570085775597.jpg, time - 03.10.2019 09:56:15
+images7-1570085775985.jpg, time - 03.10.2019 09:56:15
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-12, video_after-5, video_before-32
+images1-1570083080456.jpg, time - 03.10.2019 09:11:20
+images2-1570083112741.jpg, time - 03.10.2019 09:11:52
+images3-1570083111884.TRIAL.car.jpg, time - 03.10.2019 09:11:51
+images4-1570083111884.TRIAL.plate.jpg, time - 03.10.2019 09:11:51
+images5-1570083108207.jpg, time - 03.10.2019 09:11:48
+images6-1570083120741.jpg, time - 03.10.2019 09:12:00
+images7-1570083120489.jpg, time - 03.10.2019 09:12:00
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-24, video_after-5, video_before-84
+images1-1570079476724.jpg, time - 03.10.2019 08:11:16
+images2-1570079561009.jpg, time - 03.10.2019 08:12:41
+images3-1570079548438.K118PE750RUS.car.jpg, time - 03.10.2019 08:12:28
+images4-1570079548438.K118PE750RUS.plate.jpg, time - 03.10.2019 08:12:28
+images5-1570079548517.jpg, time - 03.10.2019 08:12:28
+images6-1570079573295.jpg, time - 03.10.2019 08:12:53
+images7-1570079573451.jpg, time - 03.10.2019 08:12:53
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-12, video_after-5, video_before-6
+images1-1570081519306.jpg, time - 03.10.2019 08:45:19
+images2-1570081525592.jpg, time - 03.10.2019 08:45:25
+images3-1570081523306.K121CK75RUS.car.jpg, time - 03.10.2019 08:45:23
+images4-1570081523306.K121CK75RUS.plate.jpg, time - 03.10.2019 08:45:23
+images5-1570081526169.jpg, time - 03.10.2019 08:45:26
+images6-1570081538163.jpg, time - 03.10.2019 08:45:38
+images7-1570081538460.jpg, time - 03.10.2019 08:45:38
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-5, video_after-5, video_before-33
+images1-1570084643872.jpg, time - 03.10.2019 09:37:23
+images2-1570084677015.jpg, time - 03.10.2019 09:37:57
+images3-1570084664729.K121CY77RUS.car.jpg, time - 03.10.2019 09:37:44
+images4-1570084664729.K121CY77RUS.plate.jpg, time - 03.10.2019 09:37:44
+images5-1570084697683.jpg, time - 03.10.2019 09:38:17
+images6-1570084702729.jpg, time - 03.10.2019 09:38:22
+images7-1570084702709.jpg, time - 03.10.2019 09:38:22
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-15, video_after-5, video_before-40
+images1-1570080287007.jpg, time - 03.10.2019 08:24:47
+images2-1570080327864.jpg, time - 03.10.2019 08:25:27
+images3-1570080350436.K143BY777RUS.car.jpg, time - 03.10.2019 08:25:50
+images4-1570080350436.K143BY777RUS.plate.jpg, time - 03.10.2019 08:25:50
+images5-1570080334921.jpg, time - 03.10.2019 08:25:34
+images6-1570080350150.jpg, time - 03.10.2019 08:25:50
+images7-1570080350168.jpg, time - 03.10.2019 08:25:50
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-10, video_after-5, video_before-27
+images1-1570082545875.jpg, time - 03.10.2019 09:02:25
+images2-1570082573589.jpg, time - 03.10.2019 09:02:53
+images3-1570082548161.K283TK750RUS.car.jpg, time - 03.10.2019 09:02:28
+images4-1570082548161.K283TK750RUS.plate.jpg, time - 03.10.2019 09:02:28
+images5-1570082581171.jpg, time - 03.10.2019 09:03:01
+images6-1570082591303.jpg, time - 03.10.2019 09:03:11
+images7-1570082591501.jpg, time - 03.10.2019 09:03:11
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-6, video_after-5, video_before-10
+images1-1570083612734.jpg, time - 03.10.2019 09:20:12
+images2-1570083623019.jpg, time - 03.10.2019 09:20:23
+images3-1570083618733.K327TH750RUS.car.jpg, time - 03.10.2019 09:20:18
+images4-1570083618733.K327TH750RUS.plate.jpg, time - 03.10.2019 09:20:18
+images5-1570083640174.jpg, time - 03.10.2019 09:20:40
+images6-1570083646162.jpg, time - 03.10.2019 09:20:46
+images7-1570083646752.jpg, time - 03.10.2019 09:20:46
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-9, video_after-5, video_before-9
+images1-1570077250157.jpg, time - 03.10.2019 07:34:10
+images2-1570077259300.jpg, time - 03.10.2019 07:34:19
+images3-1570077331584.O548EM50RUS.car.jpg, time - 03.10.2019 07:35:31
+images4-1570077331584.O548EM50RUS.plate.jpg, time - 03.10.2019 07:35:31
+images5-1570077293683.jpg, time - 03.10.2019 07:34:53
+images6-1570077303585.jpg, time - 03.10.2019 07:35:03
+images7-1570077303663.jpg, time - 03.10.2019 07:35:03
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-11, video_after-5, video_before-3
+images1-1570073982719.jpg, time - 03.10.2019 06:39:42
+images2-1570073986147.jpg, time - 03.10.2019 06:39:46
+images3-1570073986719.K560OY799RUS.car.jpg, time - 03.10.2019 06:39:46
+images4-1570073986719.K560OY799RUS.plate.jpg, time - 03.10.2019 06:39:46
+images5-1570073993872.jpg, time - 03.10.2019 06:39:53
+images6-1570074005290.jpg, time - 03.10.2019 06:40:05
+images7-1570074005424.jpg, time - 03.10.2019 06:40:05
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-7, video_after-5, video_before-9
+images1-1570087846725.jpg, time - 03.10.2019 10:30:46
+images2-1570087856439.jpg, time - 03.10.2019 10:30:56
+images3-1570087849867.K688CT48RUS.car.jpg, time - 03.10.2019 10:30:49
+images4-1570087849867.K688CT48RUS.plate.jpg, time - 03.10.2019 10:30:49
+images5-1570087855726.jpg, time - 03.10.2019 10:30:55
+images6-1570087862153.jpg, time - 03.10.2019 10:31:02
+images7-1570087862727.jpg, time - 03.10.2019 10:31:02
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-7, video_after-5, video_before-11
+images1-1570084146160.jpg, time - 03.10.2019 09:29:06
+images2-1570084157588.jpg, time - 03.10.2019 09:29:17
+images3-1570084152731.TRIAL.car.jpg, time - 03.10.2019 09:29:12
+images4-1570084152731.TRIAL.plate.jpg, time - 03.10.2019 09:29:12
+images5-1570084163721.jpg, time - 03.10.2019 09:29:23
+images6-1570084171302.jpg, time - 03.10.2019 09:29:31
+images7-1570084171215.jpg, time - 03.10.2019 09:29:31
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-18, video_after-5, video_before-47
+images1-1570082349020.jpg, time - 03.10.2019 08:59:09
+images2-1570082396448.jpg, time - 03.10.2019 08:59:56
+images3-1570082470733.TRIAL.car.jpg, time - 03.10.2019 09:01:10
+images4-1570082470733.TRIAL.plate.jpg, time - 03.10.2019 09:01:10
+images5-1570082447701.jpg, time - 03.10.2019 09:00:47
+images6-1570082466162.jpg, time - 03.10.2019 09:01:06
+images7-1570082466493.jpg, time - 03.10.2019 09:01:06
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-5, video_after-5, video_before-21
+images1-1570080171578.jpg, time - 03.10.2019 08:22:51
+images2-1570080193007.jpg, time - 03.10.2019 08:23:13
+images3-1570080180150.M187TT97RUS.car.jpg, time - 03.10.2019 08:23:00
+images4-1570080180150.M187TT97RUS.plate.jpg, time - 03.10.2019 08:23:00
+images5-1570080202904.jpg, time - 03.10.2019 08:23:22
+images6-1570080208150.jpg, time - 03.10.2019 08:23:28
+images7-1570080208174.jpg, time - 03.10.2019 08:23:28
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-9, video_after-5, video_before-7
+images1-1570078478731.jpg, time - 03.10.2019 07:54:38
+images2-1570078485874.jpg, time - 03.10.2019 07:54:45
+images3-1570078493874.M306TK750RUS.car.jpg, time - 03.10.2019 07:54:53
+images4-1570078493874.M306TK750RUS.plate.jpg, time - 03.10.2019 07:54:53
+images5-1570078483944.jpg, time - 03.10.2019 07:54:43
+images6-1570078493874.jpg, time - 03.10.2019 07:54:53
+images7-1570078493897.jpg, time - 03.10.2019 07:54:53
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-10, video_after-5, video_before-77
+images1-1570090464720.jpg, time - 03.10.2019 11:14:24
+images2-1570090542436.jpg, time - 03.10.2019 11:15:42
+images3-1570090580150.TRIAL.car.jpg, time - 03.10.2019 11:16:20
+images4-1570090580150.TRIAL.plate.jpg, time - 03.10.2019 11:16:20
+images5-1570090541229.jpg, time - 03.10.2019 11:15:41
+images6-1570090551293.jpg, time - 03.10.2019 11:15:51
+images7-1570090551247.jpg, time - 03.10.2019 11:15:51
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-12, video_after-5, video_before-16
+images1-1570088110154.jpg, time - 03.10.2019 10:35:10
+images2-1570088126155.jpg, time - 03.10.2019 10:35:26
+images3-1570088125869.M500BK190RUS.car.jpg, time - 03.10.2019 10:35:25
+images4-1570088125869.M500BK190RUS.plate.jpg, time - 03.10.2019 10:35:25
+images5-1570088118740.jpg, time - 03.10.2019 10:35:18
+images6-1570088131869.jpg, time - 03.10.2019 10:35:31
+images7-1570088131505.jpg, time - 03.10.2019 10:35:31
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-6, video_after-5, video_before-13
+images1-1570079793008.jpg, time - 03.10.2019 08:16:33
+images2-1570079806151.jpg, time - 03.10.2019 08:16:46
+images3-1570079795865.M564HB190RUS.car.jpg, time - 03.10.2019 08:16:35
+images4-1570079795865.M564HB190RUS.plate.jpg, time - 03.10.2019 08:16:35
+images5-1570079805926.jpg, time - 03.10.2019 08:16:45
+images6-1570079812151.jpg, time - 03.10.2019 08:16:52
+images7-1570079812697.jpg, time - 03.10.2019 08:16:52
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-6, video_after-5, video_before-18
+images1-1570082280735.jpg, time - 03.10.2019 08:58:00
+images2-1570082299020.jpg, time - 03.10.2019 08:58:19
+images3-1570082289306.M664MO190RUS.car.jpg, time - 03.10.2019 08:58:09
+images4-1570082289306.M664MO190RUS.plate.jpg, time - 03.10.2019 08:58:09
+images5-1570082311922.jpg, time - 03.10.2019 08:58:31
+images6-1570082317306.jpg, time - 03.10.2019 08:58:37
+images7-1570082317975.jpg, time - 03.10.2019 08:58:37
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-7, video_after-5, video_before-89
+images1-1570080505293.jpg, time - 03.10.2019 08:28:25
+images2-1570080594440.jpg, time - 03.10.2019 08:29:54
+images3-1570080588440.M716CH32RUS.car.jpg, time - 03.10.2019 08:29:48
+images4-1570080588440.M716CH32RUS.plate.jpg, time - 03.10.2019 08:29:48
+images5-1570080596677.jpg, time - 03.10.2019 08:29:56
+images6-1570080603011.jpg, time - 03.10.2019 08:30:03
+images7-1570080603721.jpg, time - 03.10.2019 08:30:03
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-15, video_after-5, video_before-82
+images1-1570083288167.jpg, time - 03.10.2019 09:14:48
+images2-1570083370737.jpg, time - 03.10.2019 09:16:10
+images3-1570083352451.M815TE77RUS.car.jpg, time - 03.10.2019 09:15:52
+images4-1570083352451.M815TE77RUS.plate.jpg, time - 03.10.2019 09:15:52
+images5-1570083375754.jpg, time - 03.10.2019 09:16:15
+images6-1570083391879.jpg, time - 03.10.2019 09:16:31
+images7-1570083391475.jpg, time - 03.10.2019 09:16:31
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-9, video_after-5, video_before-35
+images1-1570088482168.jpg, time - 03.10.2019 10:41:22
+images2-1570088517597.jpg, time - 03.10.2019 10:41:57
+images3-1570088495596.M956CB152RUS.car.jpg, time - 03.10.2019 10:41:35
+images4-1570088495596.M956CB152RUS.plate.jpg, time - 03.10.2019 10:41:35
+images5-1570088515535.jpg, time - 03.10.2019 10:41:55
+images6-1570088525882.jpg, time - 03.10.2019 10:42:05
+images7-1570088525220.jpg, time - 03.10.2019 10:42:05
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-26, video_after-5, video_before-36
+images1-1570080319293.jpg, time - 03.10.2019 08:25:19
+images2-1570080355293.jpg, time - 03.10.2019 08:25:55
+images3-1570080348150.MK48377RUS.car.jpg, time - 03.10.2019 08:25:48
+images4-1570080348150.MK48377RUS.plate.jpg, time - 03.10.2019 08:25:48
+images5-1570080334185.jpg, time - 03.10.2019 08:25:34
+images6-1570080360721.jpg, time - 03.10.2019 08:26:00
+images7-1570080360197.jpg, time - 03.10.2019 08:26:00
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-24, video_after-5, video_before-14
+images1-1570079941865.jpg, time - 03.10.2019 08:19:01
+images2-1570079956722.jpg, time - 03.10.2019 08:19:16
+images3-1570079945865.MH46777RUS.car.jpg, time - 03.10.2019 08:19:05
+images4-1570079945865.MH46777RUS.plate.jpg, time - 03.10.2019 08:19:05
+images5-1570079944633.jpg, time - 03.10.2019 08:19:04
+images6-1570079968436.jpg, time - 03.10.2019 08:19:28
+images7-1570079968715.jpg, time - 03.10.2019 08:19:28
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-15, video_after-5, video_before-31
+images1-1570085195873.jpg, time - 03.10.2019 09:46:35
+images2-1570085227301.jpg, time - 03.10.2019 09:47:07
+images3-1570085229016.H044XH777RUS.car.jpg, time - 03.10.2019 09:47:09
+images4-1570085229016.H044XH777RUS.plate.jpg, time - 03.10.2019 09:47:09
+images5-1570085221494.jpg, time - 03.10.2019 09:47:01
+images6-1570085237587.jpg, time - 03.10.2019 09:47:17
+images7-1570085237372.jpg, time - 03.10.2019 09:47:17
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-6, video_after-5, video_before-8
+images1-1570091393006.jpg, time - 03.10.2019 11:29:53
+images2-1570091401863.jpg, time - 03.10.2019 11:30:01
+images3-1570091395578.TRIAL.car.jpg, time - 03.10.2019 11:29:55
+images4-1570091395578.TRIAL.plate.jpg, time - 03.10.2019 11:29:55
+images5-1570091423773.jpg, time - 03.10.2019 11:30:23
+images6-1570091430148.jpg, time - 03.10.2019 11:30:30
+images7-1570091430538.jpg, time - 03.10.2019 11:30:30
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-4, video_after-5, video_before-21
+images1-1570076729293.jpg, time - 03.10.2019 07:25:29
+images2-1570076750438.jpg, time - 03.10.2019 07:25:50
+images3-1570076775011.H078HP750RUS.car.jpg, time - 03.10.2019 07:26:15
+images4-1570076775011.H078HP750RUS.plate.jpg, time - 03.10.2019 07:26:15
+images5-1570076766653.jpg, time - 03.10.2019 07:26:06
+images6-1570076771296.jpg, time - 03.10.2019 07:26:11
+images7-1570076771446.jpg, time - 03.10.2019 07:26:11
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-7, video_after-5, video_before-12
+images1-1570084146160.jpg, time - 03.10.2019 09:29:06
+images2-1570084158160.jpg, time - 03.10.2019 09:29:18
+images3-1570084152731.H133KM48RUS.car.jpg, time - 03.10.2019 09:29:12
+images4-1570084152731.H133KM48RUS.plate.jpg, time - 03.10.2019 09:29:12
+images5-1570084163721.jpg, time - 03.10.2019 09:29:23
+images6-1570084170731.jpg, time - 03.10.2019 09:29:30
+images7-1570084170957.jpg, time - 03.10.2019 09:29:30
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-7, video_after-5, video_before-21
+images1-1570085331873.jpg, time - 03.10.2019 09:48:51
+images2-1570085353016.jpg, time - 03.10.2019 09:49:13
+images3-1570085343587.H181TM750RUS.car.jpg, time - 03.10.2019 09:49:03
+images4-1570085343587.H181TM750RUS.plate.jpg, time - 03.10.2019 09:49:03
+images5-1570085351483.jpg, time - 03.10.2019 09:49:11
+images6-1570085358730.jpg, time - 03.10.2019 09:49:18
+images7-1570085358984.jpg, time - 03.10.2019 09:49:18
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-9, video_after-5, video_before-10
+images1-1570090271296.jpg, time - 03.10.2019 11:11:11
+images2-1570090282153.jpg, time - 03.10.2019 11:11:22
+images3-1570090279582.H208PC190RUS.car.jpg, time - 03.10.2019 11:11:19
+images4-1570090279582.H208PC190RUS.plate.jpg, time - 03.10.2019 11:11:19
+images5-1570090295772.jpg, time - 03.10.2019 11:11:35
+images6-1570090304153.jpg, time - 03.10.2019 11:11:44
+images7-1570090304990.jpg, time - 03.10.2019 11:11:44
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-7, video_after-5, video_before-14
+images1-1570082548732.jpg, time - 03.10.2019 09:02:28
+images2-1570082563303.jpg, time - 03.10.2019 09:02:43
+images3-1570082594446.H245PC190RUS.car.jpg, time - 03.10.2019 09:03:14
+images4-1570082594446.H245PC190RUS.plate.jpg, time - 03.10.2019 09:03:14
+images5-1570082579169.jpg, time - 03.10.2019 09:02:59
+images6-1570082586732.jpg, time - 03.10.2019 09:03:06
+images7-1570082586699.jpg, time - 03.10.2019 09:03:06
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-6, video_after-5, video_before-11
+images1-1570080436721.jpg, time - 03.10.2019 08:27:16
+images2-1570080448435.jpg, time - 03.10.2019 08:27:28
+images3-1570080439007.H453PM77RUS.car.jpg, time - 03.10.2019 08:27:19
+images4-1570080439007.H453PM77RUS.plate.jpg, time - 03.10.2019 08:27:19
+images5-1570080462453.jpg, time - 03.10.2019 08:27:42
+images6-1570080468149.jpg, time - 03.10.2019 08:27:48
+images7-1570080468697.jpg, time - 03.10.2019 08:27:48
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-5, video_after-5, video_before-38
+images1-1570079727866.jpg, time - 03.10.2019 08:15:27
+images2-1570079766151.jpg, time - 03.10.2019 08:16:06
+images3-1570079811008.H606BP25RUS.car.jpg, time - 03.10.2019 08:16:51
+images4-1570079811008.H606BP25RUS.plate.jpg, time - 03.10.2019 08:16:51
+images5-1570079805926.jpg, time - 03.10.2019 08:16:45
+images6-1570079811580.jpg, time - 03.10.2019 08:16:51
+images7-1570079811488.jpg, time - 03.10.2019 08:16:51
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-7, video_after-5, video_before-16
+images1-1570083610448.jpg, time - 03.10.2019 09:20:10
+images2-1570083626448.jpg, time - 03.10.2019 09:20:26
+images3-1570083651590.H620HB33RUS.car.jpg, time - 03.10.2019 09:20:51
+images4-1570083651590.H620HB33RUS.plate.jpg, time - 03.10.2019 09:20:51
+images5-1570083640174.jpg, time - 03.10.2019 09:20:40
+images6-1570083647591.jpg, time - 03.10.2019 09:20:47
+images7-1570083647743.jpg, time - 03.10.2019 09:20:47
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-14, video_after-5, video_before-95
+images1-1570079323296.jpg, time - 03.10.2019 08:08:43
+images2-1570079418725.jpg, time - 03.10.2019 08:10:18
+images3-1570079424153.H632YX750RUS.car.jpg, time - 03.10.2019 08:10:24
+images4-1570079424153.H632YX750RUS.plate.jpg, time - 03.10.2019 08:10:24
+images5-1570079408930.jpg, time - 03.10.2019 08:10:08
+images6-1570079423582.jpg, time - 03.10.2019 08:10:23
+images7-1570079423455.jpg, time - 03.10.2019 08:10:23
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-8, video_after-5, video_before-22
+images1-1570082163587.jpg, time - 03.10.2019 08:56:03
+images2-1570082186444.jpg, time - 03.10.2019 08:56:26
+images3-1570082166444.H666CM197RUS.car.jpg, time - 03.10.2019 08:56:06
+images4-1570082166444.H666CM197RUS.plate.jpg, time - 03.10.2019 08:56:06
+images5-1570082187915.jpg, time - 03.10.2019 08:56:27
+images6-1570082196444.jpg, time - 03.10.2019 08:56:36
+images7-1570082196465.jpg, time - 03.10.2019 08:56:36
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-5, video_after-5, video_before-5
+images1-1570079920151.jpg, time - 03.10.2019 08:18:40
+images2-1570079925579.jpg, time - 03.10.2019 08:18:45
+images3-1570079923008.H728KM799RUS.car.jpg, time - 03.10.2019 08:18:43
+images4-1570079923008.H728KM799RUS.plate.jpg, time - 03.10.2019 08:18:43
+images5-1570079944723.jpg, time - 03.10.2019 08:19:04
+images6-1570079949579.jpg, time - 03.10.2019 08:19:09
+images7-1570079949725.jpg, time - 03.10.2019 08:19:09
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-5, video_after-5, video_before-11
+images1-1570075425583.jpg, time - 03.10.2019 07:03:45
+images2-1570075436726.jpg, time - 03.10.2019 07:03:56
+images3-1570075429012.H837TE116RUS.car.jpg, time - 03.10.2019 07:03:49
+images4-1570075429012.H837TE116RUS.plate.jpg, time - 03.10.2019 07:03:49
+images5-1570075445906.jpg, time - 03.10.2019 07:04:05
+images6-1570075451011.jpg, time - 03.10.2019 07:04:11
+images7-1570075451153.jpg, time - 03.10.2019 07:04:11
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-11, video_after-5, video_before-11
+images1-1570077247585.jpg, time - 03.10.2019 07:34:07
+images2-1570077259300.jpg, time - 03.10.2019 07:34:19
+images3-1570077360156.TRIAL.car.jpg, time - 03.10.2019 07:36:00
+images4-1570077360156.TRIAL.plate.jpg, time - 03.10.2019 07:36:00
+images5-1570077293899.jpg, time - 03.10.2019 07:34:53
+images6-1570077305299.jpg, time - 03.10.2019 07:35:05
+images7-1570077305427.jpg, time - 03.10.2019 07:35:05
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-18, video_after-5, video_before-30
+images1-1570086251309.jpg, time - 03.10.2019 10:04:11
+images2-1570086281879.jpg, time - 03.10.2019 10:04:41
+images3-1570086278164.TRIAL.car.jpg, time - 03.10.2019 10:04:38
+images4-1570086278164.TRIAL.plate.jpg, time - 03.10.2019 10:04:38
+images5-1570086272986.jpg, time - 03.10.2019 10:04:32
+images6-1570086291021.jpg, time - 03.10.2019 10:04:51
+images7-1570086291729.jpg, time - 03.10.2019 10:04:51
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-7, video_after-5, video_before-6
+images1-1570090284153.jpg, time - 03.10.2019 11:11:24
+images2-1570090290153.jpg, time - 03.10.2019 11:11:30
+images3-1570090287010.HE73077RUS.car.jpg, time - 03.10.2019 11:11:27
+images4-1570090287010.HE73077RUS.plate.jpg, time - 03.10.2019 11:11:27
+images5-1570090295982.jpg, time - 03.10.2019 11:11:35
+images6-1570090303295.jpg, time - 03.10.2019 11:11:43
+images7-1570090303232.jpg, time - 03.10.2019 11:11:43
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-14, video_after-5, video_before-19
+images1-1570090918724.jpg, time - 03.10.2019 11:21:58
+images2-1570090938438.jpg, time - 03.10.2019 11:22:18
+images3-1570090941866.O052EP97RUS.car.jpg, time - 03.10.2019 11:22:21
+images4-1570090941866.O052EP97RUS.plate.jpg, time - 03.10.2019 11:22:21
+images5-1570090926781.jpg, time - 03.10.2019 11:22:06
+images6-1570090941009.jpg, time - 03.10.2019 11:22:21
+images7-1570090941757.jpg, time - 03.10.2019 11:22:21
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-6, video_after-5, video_before-67
+images1-1570079054440.jpg, time - 03.10.2019 08:04:14
+images2-1570079121582.jpg, time - 03.10.2019 08:05:21
+images3-1570079066726.O059OA75RUS.car.jpg, time - 03.10.2019 08:04:26
+images4-1570079066726.O059OA75RUS.plate.jpg, time - 03.10.2019 08:04:26
+images5-1570079145451.jpg, time - 03.10.2019 08:05:45
+images6-1570079152725.jpg, time - 03.10.2019 08:05:52
+images7-1570079152163.jpg, time - 03.10.2019 08:05:52
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-18, video_after-5, video_before-45
+images1-1570077728737.jpg, time - 03.10.2019 07:42:08
+images2-1570077774452.jpg, time - 03.10.2019 07:42:54
+images3-1570077847310.O192TE190RUS.car.jpg, time - 03.10.2019 07:44:07
+images4-1570077847310.O192TE190RUS.plate.jpg, time - 03.10.2019 07:44:07
+images5-1570077824152.jpg, time - 03.10.2019 07:43:44
+images6-1570077842739.jpg, time - 03.10.2019 07:44:02
+images7-1570077842675.jpg, time - 03.10.2019 07:44:02
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-17, video_after-5, video_before-84
+images1-1570083954732.jpg, time - 03.10.2019 09:25:54
+images2-1570084039303.jpg, time - 03.10.2019 09:27:19
+images3-1570084002732.O595EK799RUS.car.jpg, time - 03.10.2019 09:26:42
+images4-1570084002732.O595EK799RUS.plate.jpg, time - 03.10.2019 09:26:42
+images5-1570084031181.jpg, time - 03.10.2019 09:27:11
+images6-1570084048160.jpg, time - 03.10.2019 09:27:28
+images7-1570084048476.jpg, time - 03.10.2019 09:27:28
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-5, video_after-5, video_before-18
+images1-1570077268728.jpg, time - 03.10.2019 07:34:28
+images2-1570077286728.jpg, time - 03.10.2019 07:34:46
+images3-1570077283013.TRIAL.car.jpg, time - 03.10.2019 07:34:43
+images4-1570077283013.TRIAL.plate.jpg, time - 03.10.2019 07:34:43
+images5-1570077293899.jpg, time - 03.10.2019 07:34:53
+images6-1570077299013.jpg, time - 03.10.2019 07:34:59
+images7-1570077299141.jpg, time - 03.10.2019 07:34:59
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-12, video_after-5, video_before-31
+images1-1570082542161.jpg, time - 03.10.2019 09:02:22
+images2-1570082573875.jpg, time - 03.10.2019 09:02:53
+images3-1570082543875.O905MX750RUS.car.jpg, time - 03.10.2019 09:02:23
+images4-1570082543875.O905MX750RUS.plate.jpg, time - 03.10.2019 09:02:23
+images5-1570082579169.jpg, time - 03.10.2019 09:02:59
+images6-1570082591303.jpg, time - 03.10.2019 09:03:11
+images7-1570082591717.jpg, time - 03.10.2019 09:03:11
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-11, video_after-5, video_before-13
+images1-1570073968719.jpg, time - 03.10.2019 06:39:28
+images2-1570073982147.jpg, time - 03.10.2019 06:39:42
+images3-1570073977290.O944AK750RUS.car.jpg, time - 03.10.2019 06:39:37
+images4-1570073977290.O944AK750RUS.plate.jpg, time - 03.10.2019 06:39:37
+images5-1570073994138.jpg, time - 03.10.2019 06:39:54
+images6-1570074005290.jpg, time - 03.10.2019 06:40:05
+images7-1570074005424.jpg, time - 03.10.2019 06:40:05
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-27, video_after-5, video_before-68
+images1-1570080019293.jpg, time - 03.10.2019 08:20:19
+images2-1570080087864.jpg, time - 03.10.2019 08:21:27
+images3-1570080084721.P314PH750RUS.car.jpg, time - 03.10.2019 08:21:24
+images4-1570080084721.P314PH750RUS.plate.jpg, time - 03.10.2019 08:21:24
+images5-1570080072502.jpg, time - 03.10.2019 08:21:12
+images6-1570080099578.jpg, time - 03.10.2019 08:21:39
+images7-1570080099719.jpg, time - 03.10.2019 08:21:39
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-20, video_after-5, video_before-33
+images1-1570078563301.jpg, time - 03.10.2019 07:56:03
+images2-1570078596729.jpg, time - 03.10.2019 07:56:36
+images3-1570078637871.TRIAL.car.jpg, time - 03.10.2019 07:57:17
+images4-1570078637871.TRIAL.plate.jpg, time - 03.10.2019 07:57:17
+images5-1570078615903.jpg, time - 03.10.2019 07:56:55
+images6-1570078636728.jpg, time - 03.10.2019 07:57:16
+images7-1570078636694.jpg, time - 03.10.2019 07:57:16
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-3, video_after-5, video_before-14
+images1-1570076741865.jpg, time - 03.10.2019 07:25:41
+images2-1570076755867.jpg, time - 03.10.2019 07:25:55
+images3-1570076752438.P342ME50RUS.car.jpg, time - 03.10.2019 07:25:52
+images4-1570076752438.P342ME50RUS.plate.jpg, time - 03.10.2019 07:25:52
+images5-1570076766457.jpg, time - 03.10.2019 07:26:06
+images6-1570076770725.jpg, time - 03.10.2019 07:26:10
+images7-1570076770424.jpg, time - 03.10.2019 07:26:10
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-14, video_after-5, video_before-56
+images1-1570080800156.jpg, time - 03.10.2019 08:33:20
+images2-1570080856442.jpg, time - 03.10.2019 08:34:16
+images3-1570080881014.P516CO190RUS.car.jpg, time - 03.10.2019 08:34:41
+images4-1570080881014.P516CO190RUS.plate.jpg, time - 03.10.2019 08:34:41
+images5-1570080858158.jpg, time - 03.10.2019 08:34:18
+images6-1570080872728.jpg, time - 03.10.2019 08:34:32
+images7-1570080872700.jpg, time - 03.10.2019 08:34:32
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-13, video_after-5, video_before-8
+images1-1570090403579.jpg, time - 03.10.2019 11:13:23
+images2-1570090411579.jpg, time - 03.10.2019 11:13:31
+images3-1570090407864.P586750RUS.car.jpg, time - 03.10.2019 11:13:27
+images4-1570090407864.P586750RUS.plate.jpg, time - 03.10.2019 11:13:27
+images5-1570090420563.jpg, time - 03.10.2019 11:13:40
+images6-1570090434721.jpg, time - 03.10.2019 11:13:54
+images7-1570090434234.jpg, time - 03.10.2019 11:13:54
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-9, video_after-5, video_before-28
+images1-1570077005874.jpg, time - 03.10.2019 07:30:05
+images2-1570077034160.jpg, time - 03.10.2019 07:30:34
+images3-1570077081874.P647PX777RUS.car.jpg, time - 03.10.2019 07:31:21
+images4-1570077081874.P647PX777RUS.plate.jpg, time - 03.10.2019 07:31:21
+images5-1570077031442.jpg, time - 03.10.2019 07:30:31
+images6-1570077040445.jpg, time - 03.10.2019 07:30:40
+images7-1570077040466.jpg, time - 03.10.2019 07:30:40
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-9, video_after-5, video_before-24
+images1-1570084549872.jpg, time - 03.10.2019 09:35:49
+images2-1570084573872.jpg, time - 03.10.2019 09:36:13
+images3-1570084579015.P853OC39RUS.car.jpg, time - 03.10.2019 09:36:19
+images4-1570084579015.P853OC39RUS.plate.jpg, time - 03.10.2019 09:36:19
+images5-1570084566463.jpg, time - 03.10.2019 09:36:06
+images6-1570084576729.jpg, time - 03.10.2019 09:36:16
+images7-1570084576458.jpg, time - 03.10.2019 09:36:16
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-9, video_after-5, video_before-25
+images1-1570082547304.jpg, time - 03.10.2019 09:02:27
+images2-1570082573018.jpg, time - 03.10.2019 09:02:53
+images3-1570082605017.P984BA50RUS.car.jpg, time - 03.10.2019 09:03:25
+images4-1570082605017.P984BA50RUS.plate.jpg, time - 03.10.2019 09:03:25
+images5-1570082578937.jpg, time - 03.10.2019 09:02:58
+images6-1570082588446.jpg, time - 03.10.2019 09:03:08
+images7-1570082588727.jpg, time - 03.10.2019 09:03:08
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-7, video_after-5, video_before-5
+images1-1570076750438.jpg, time - 03.10.2019 07:25:50
+images2-1570076755581.jpg, time - 03.10.2019 07:25:55
+images3-1570076785297.C025YY19RUS.car.jpg, time - 03.10.2019 07:26:25
+images4-1570076785297.C025YY19RUS.plate.jpg, time - 03.10.2019 07:26:25
+images5-1570076766457.jpg, time - 03.10.2019 07:26:06
+images6-1570076774154.jpg, time - 03.10.2019 07:26:14
+images7-1570076774444.jpg, time - 03.10.2019 07:26:14
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-5, video_after-5, video_before-8
+images1-1570091651290.jpg, time - 03.10.2019 11:34:11
+images2-1570091660146.jpg, time - 03.10.2019 11:34:20
+images3-1570091667575.C036YP750RUS.car.jpg, time - 03.10.2019 11:34:27
+images4-1570091667575.C036YP750RUS.plate.jpg, time - 03.10.2019 11:34:27
+images5-1570091659535.jpg, time - 03.10.2019 11:34:19
+images6-1570091665004.jpg, time - 03.10.2019 11:34:25
+images7-1570091665232.jpg, time - 03.10.2019 11:34:25
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-19, video_after-5, video_before-73
+images1-1570081987017.jpg, time - 03.10.2019 08:53:07
+images2-1570082060730.jpg, time - 03.10.2019 08:54:20
+images3-1570082055873.C044YA750RUS.car.jpg, time - 03.10.2019 08:54:15
+images4-1570082055873.C044YA750RUS.plate.jpg, time - 03.10.2019 08:54:15
+images5-1570082051187.jpg, time - 03.10.2019 08:54:11
+images6-1570082070158.jpg, time - 03.10.2019 08:54:30
+images7-1570082070703.jpg, time - 03.10.2019 08:54:30
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-16, video_after-5, video_before-28
+images1-1570080047007.jpg, time - 03.10.2019 08:20:47
+images2-1570080075007.jpg, time - 03.10.2019 08:21:15
+images3-1570080106435.TRIAL.car.jpg, time - 03.10.2019 08:21:46
+images4-1570080106435.TRIAL.plate.jpg, time - 03.10.2019 08:21:46
+images5-1570080073186.jpg, time - 03.10.2019 08:21:13
+images6-1570080090150.jpg, time - 03.10.2019 08:21:30
+images7-1570080090168.jpg, time - 03.10.2019 08:21:30
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-11, video_after-5, video_before-10
+images1-1570075569009.jpg, time - 03.10.2019 07:06:09
+images2-1570075579866.jpg, time - 03.10.2019 07:06:19
+images3-1570075578437.C545YY190RUS.car.jpg, time - 03.10.2019 07:06:18
+images4-1570075578437.C545YY190RUS.plate.jpg, time - 03.10.2019 07:06:18
+images5-1570075577915.jpg, time - 03.10.2019 07:06:17
+images6-1570075589580.jpg, time - 03.10.2019 07:06:29
+images7-1570075589693.jpg, time - 03.10.2019 07:06:29
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-5, video_after-5, video_before-7
+images1-1570079916437.jpg, time - 03.10.2019 08:18:36
+images2-1570079923579.jpg, time - 03.10.2019 08:18:43
+images3-1570079919865.C578EK799RUS.car.jpg, time - 03.10.2019 08:18:39
+images4-1570079919865.C578EK799RUS.plate.jpg, time - 03.10.2019 08:18:39
+images5-1570079944723.jpg, time - 03.10.2019 08:19:04
+images6-1570079949579.jpg, time - 03.10.2019 08:19:09
+images7-1570079949725.jpg, time - 03.10.2019 08:19:09
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-21, video_after-5, video_before-103
+images1-1570080898156.jpg, time - 03.10.2019 08:34:58
+images2-1570081001585.jpg, time - 03.10.2019 08:36:41
+images3-1570080976157.C748HK799RUS.car.jpg, time - 03.10.2019 08:36:16
+images4-1570080976157.C748HK799RUS.plate.jpg, time - 03.10.2019 08:36:16
+images5-1570080998944.jpg, time - 03.10.2019 08:36:38
+images6-1570081020158.jpg, time - 03.10.2019 08:37:00
+images7-1570081020177.jpg, time - 03.10.2019 08:37:00
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-12, video_after-5, video_before-64
+images1-1570085955316.jpg, time - 03.10.2019 09:59:15
+images2-1570086019603.jpg, time - 03.10.2019 10:00:19
+images3-1570086027317.C835HY777RUS.car.jpg, time - 03.10.2019 10:00:27
+images4-1570086027317.C835HY777RUS.plate.jpg, time - 03.10.2019 10:00:27
+images5-1570086012220.jpg, time - 03.10.2019 10:00:12
+images6-1570086025889.jpg, time - 03.10.2019 10:00:25
+images7-1570086025187.jpg, time - 03.10.2019 10:00:25
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-15, video_after-5, video_before-16
+images1-1570080837585.jpg, time - 03.10.2019 08:33:57
+images2-1570080853585.jpg, time - 03.10.2019 08:34:13
+images3-1570080847013.TRIAL.car.jpg, time - 03.10.2019 08:34:07
+images4-1570080847013.TRIAL.plate.jpg, time - 03.10.2019 08:34:07
+images5-1570080857951.jpg, time - 03.10.2019 08:34:17
+images6-1570080873013.jpg, time - 03.10.2019 08:34:33
+images7-1570080873157.jpg, time - 03.10.2019 08:34:33
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-5, video_after-5, video_before-30
+images1-1570076443007.jpg, time - 03.10.2019 07:20:43
+images2-1570076473579.jpg, time - 03.10.2019 07:21:13
+images3-1570076468151.C884TY750RUS.car.jpg, time - 03.10.2019 07:21:08
+images4-1570076468151.C884TY750RUS.plate.jpg, time - 03.10.2019 07:21:08
+images5-1570076501909.jpg, time - 03.10.2019 07:21:41
+images6-1570076507579.jpg, time - 03.10.2019 07:21:47
+images7-1570076507123.jpg, time - 03.10.2019 07:21:47
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-10, video_after-5, video_before-12
+images1-1570083097884.jpg, time - 03.10.2019 09:11:37
+images2-1570083110170.jpg, time - 03.10.2019 09:11:50
+images3-1570083102741.C917XE77RUS.car.jpg, time - 03.10.2019 09:11:42
+images4-1570083102741.C917XE77RUS.plate.jpg, time - 03.10.2019 09:11:42
+images5-1570083107461.jpg, time - 03.10.2019 09:11:47
+images6-1570083117027.jpg, time - 03.10.2019 09:11:57
+images7-1570083117705.jpg, time - 03.10.2019 09:11:57
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-6, video_after-5, video_before-12
+images1-1570084279301.jpg, time - 03.10.2019 09:31:19
+images2-1570084291873.jpg, time - 03.10.2019 09:31:31
+images3-1570084297301.T007HH50RUS.car.jpg, time - 03.10.2019 09:31:37
+images4-1570084297301.T007HH50RUS.plate.jpg, time - 03.10.2019 09:31:37
+images5-1570084292703.jpg, time - 03.10.2019 09:31:32
+images6-1570084299015.jpg, time - 03.10.2019 09:31:39
+images7-1570084299218.jpg, time - 03.10.2019 09:31:39
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-8, video_after-5, video_before-5
+images1-1570087186727.jpg, time - 03.10.2019 10:19:46
+images2-1570087192441.jpg, time - 03.10.2019 10:19:52
+images3-1570087186727.TRIAL.car.jpg, time - 03.10.2019 10:19:46
+images4-1570087186727.TRIAL.plate.jpg, time - 03.10.2019 10:19:46
+images5-1570087196517.jpg, time - 03.10.2019 10:19:56
+images6-1570087205584.jpg, time - 03.10.2019 10:20:05
+images7-1570087205492.jpg, time - 03.10.2019 10:20:05
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-14, video_after-5, video_before-85
+images1-1570080775013.jpg, time - 03.10.2019 08:32:55
+images2-1570080860156.jpg, time - 03.10.2019 08:34:20
+images3-1570080792442.T077CB750RUS.car.jpg, time - 03.10.2019 08:33:12
+images4-1570080792442.T077CB750RUS.plate.jpg, time - 03.10.2019 08:33:12
+images5-1570080857701.jpg, time - 03.10.2019 08:34:17
+images6-1570080872442.jpg, time - 03.10.2019 08:34:32
+images7-1570080872700.jpg, time - 03.10.2019 08:34:32
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-29, video_after-5, video_before-74
+images1-1570079485581.jpg, time - 03.10.2019 08:11:25
+images2-1570079560152.jpg, time - 03.10.2019 08:12:40
+images3-1570079580723.T100AX750RUS.car.jpg, time - 03.10.2019 08:13:00
+images4-1570079580723.T100AX750RUS.plate.jpg, time - 03.10.2019 08:13:00
+images5-1570079543959.jpg, time - 03.10.2019 08:12:23
+images6-1570079573580.jpg, time - 03.10.2019 08:12:53
+images7-1570079573451.jpg, time - 03.10.2019 08:12:53
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-7, video_after-5, video_before-58
+images1-1570079209582.jpg, time - 03.10.2019 08:06:49
+images2-1570079267867.jpg, time - 03.10.2019 08:07:47
+images3-1570079290725.T113EP97RUS.car.jpg, time - 03.10.2019 08:08:10
+images4-1570079290725.T113EP97RUS.plate.jpg, time - 03.10.2019 08:08:10
+images5-1570079274163.jpg, time - 03.10.2019 08:07:54
+images6-1570079281010.jpg, time - 03.10.2019 08:08:01
+images7-1570079281450.jpg, time - 03.10.2019 08:08:01
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-5, video_after-5, video_before-50
+images1-1570080151578.jpg, time - 03.10.2019 08:22:31
+images2-1570080202150.jpg, time - 03.10.2019 08:23:22
+images3-1570080225864.T148YT750RUS.car.jpg, time - 03.10.2019 08:23:45
+images4-1570080225864.T148YT750RUS.plate.jpg, time - 03.10.2019 08:23:45
+images5-1570080202904.jpg, time - 03.10.2019 08:23:22
+images6-1570080208150.jpg, time - 03.10.2019 08:23:28
+images7-1570080208689.jpg, time - 03.10.2019 08:23:28
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-17, video_after-5, video_before-32
+images1-1570080041007.jpg, time - 03.10.2019 08:20:41
+images2-1570080073864.jpg, time - 03.10.2019 08:21:13
+images3-1570080101578.T165ME90RUS.car.jpg, time - 03.10.2019 08:21:41
+images4-1570080101578.T165ME90RUS.plate.jpg, time - 03.10.2019 08:21:41
+images5-1570080073662.jpg, time - 03.10.2019 08:21:13
+images6-1570080091007.jpg, time - 03.10.2019 08:21:31
+images7-1570080091469.jpg, time - 03.10.2019 08:21:31
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-7, video_after-5, video_before-30
+images1-1570084649015.jpg, time - 03.10.2019 09:37:29
+images2-1570084679300.jpg, time - 03.10.2019 09:37:59
+images3-1570084671586.T445HC799RUS.car.jpg, time - 03.10.2019 09:37:51
+images4-1570084671586.T445HC799RUS.plate.jpg, time - 03.10.2019 09:37:51
+images5-1570084695496.jpg, time - 03.10.2019 09:38:15
+images6-1570084702729.jpg, time - 03.10.2019 09:38:22
+images7-1570084702709.jpg, time - 03.10.2019 09:38:22
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-6, video_after-5, video_before-70
+images1-1570082640445.jpg, time - 03.10.2019 09:04:00
+images2-1570082711302.jpg, time - 03.10.2019 09:05:11
+images3-1570082778732.T477BK116RUS.car.jpg, time - 03.10.2019 09:06:18
+images4-1570082778732.T477BK116RUS.plate.jpg, time - 03.10.2019 09:06:18
+images5-1570082716749.jpg, time - 03.10.2019 09:05:16
+images6-1570082723588.jpg, time - 03.10.2019 09:05:23
+images7-1570082723732.jpg, time - 03.10.2019 09:05:23
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-5, video_after-5, video_before-11
+images1-1570075297588.jpg, time - 03.10.2019 07:01:37
+images2-1570075309302.jpg, time - 03.10.2019 07:01:49
+images3-1570075304445.T591PM197RUS.car.jpg, time - 03.10.2019 07:01:44
+images4-1570075304445.T591PM197RUS.plate.jpg, time - 03.10.2019 07:01:44
+images5-1570075314664.jpg, time - 03.10.2019 07:01:54
+images6-1570075320444.jpg, time - 03.10.2019 07:02:00
+images7-1570075320443.jpg, time - 03.10.2019 07:02:00
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-22, video_after-5, video_before-88
+images1-1570081172163.jpg, time - 03.10.2019 08:39:32
+images2-1570081260163.jpg, time - 03.10.2019 08:41:00
+images3-1570081243877.T634OM197RUS.car.jpg, time - 03.10.2019 08:40:43
+images4-1570081243877.T634OM197RUS.plate.jpg, time - 03.10.2019 08:40:43
+images5-1570081256513.jpg, time - 03.10.2019 08:40:56
+images6-1570081278449.jpg, time - 03.10.2019 08:41:18
+images7-1570081278676.jpg, time - 03.10.2019 08:41:18
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-10, video_after-5, video_before-30
+images1-1570077003303.jpg, time - 03.10.2019 07:30:03
+images2-1570077033874.jpg, time - 03.10.2019 07:30:33
+images3-1570077005303.T997YC150RUS.car.jpg, time - 03.10.2019 07:30:05
+images4-1570077005303.T997YC150RUS.plate.jpg, time - 03.10.2019 07:30:05
+images5-1570077031442.jpg, time - 03.10.2019 07:30:31
+images6-1570077041017.jpg, time - 03.10.2019 07:30:41
+images7-1570077041666.jpg, time - 03.10.2019 07:30:41
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-7, video_after-5, video_before-11
+images1-1570079650151.jpg, time - 03.10.2019 08:14:10
+images2-1570079661580.jpg, time - 03.10.2019 08:14:21
+images3-1570079673008.Y118TP750RUS.car.jpg, time - 03.10.2019 08:14:33
+images4-1570079673008.Y118TP750RUS.plate.jpg, time - 03.10.2019 08:14:33
+images5-1570079677434.jpg, time - 03.10.2019 08:14:37
+images6-1570079684437.jpg, time - 03.10.2019 08:14:44
+images7-1570079684680.jpg, time - 03.10.2019 08:14:44
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-26, video_after-5, video_before-28
+images1-1570083225026.jpg, time - 03.10.2019 09:13:45
+images2-1570083253597.jpg, time - 03.10.2019 09:14:13
+images3-1570083250740.Y169MA67RUS.car.jpg, time - 03.10.2019 09:14:10
+images4-1570083250740.Y169MA67RUS.plate.jpg, time - 03.10.2019 09:14:10
+images5-1570083241974.jpg, time - 03.10.2019 09:14:01
+images6-1570083268739.jpg, time - 03.10.2019 09:14:28
+images7-1570083268524.jpg, time - 03.10.2019 09:14:28
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-8, video_after-5, video_before-9
+images1-1570090280153.jpg, time - 03.10.2019 11:11:20
+images2-1570090289581.jpg, time - 03.10.2019 11:11:29
+images3-1570090285010.Y237MY33RUS.car.jpg, time - 03.10.2019 11:11:25
+images4-1570090285010.Y237MY33RUS.plate.jpg, time - 03.10.2019 11:11:25
+images5-1570090295531.jpg, time - 03.10.2019 11:11:35
+images6-1570090303295.jpg, time - 03.10.2019 11:11:43
+images7-1570090303543.jpg, time - 03.10.2019 11:11:43
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-7, video_after-5, video_before-8
+images1-1570088241590.jpg, time - 03.10.2019 10:37:21
+images2-1570088250447.jpg, time - 03.10.2019 10:37:30
+images3-1570088259305.Y530CT777RUS.car.jpg, time - 03.10.2019 10:37:39
+images4-1570088259305.Y530CT777RUS.plate.jpg, time - 03.10.2019 10:37:39
+images5-1570088251967.jpg, time - 03.10.2019 10:37:31
+images6-1570088259019.jpg, time - 03.10.2019 10:37:39
+images7-1570088259508.jpg, time - 03.10.2019 10:37:39
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-5, video_after-5, video_before-20
+images1-1570079658437.jpg, time - 03.10.2019 08:14:18
+images2-1570079679294.jpg, time - 03.10.2019 08:14:39
+images3-1570079684437.Y632KC750RUS.car.jpg, time - 03.10.2019 08:14:44
+images4-1570079684437.Y632KC750RUS.plate.jpg, time - 03.10.2019 08:14:44
+images5-1570079677434.jpg, time - 03.10.2019 08:14:37
+images6-1570079682151.jpg, time - 03.10.2019 08:14:42
+images7-1570079682497.jpg, time - 03.10.2019 08:14:42
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-11, video_after-5, video_before-21
+images1-1570075824150.jpg, time - 03.10.2019 07:10:24
+images2-1570075845293.jpg, time - 03.10.2019 07:10:45
+images3-1570075831007.Y690TM777RUS.car.jpg, time - 03.10.2019 07:10:31
+images4-1570075831007.Y690TM777RUS.plate.jpg, time - 03.10.2019 07:10:31
+images5-1570075842139.jpg, time - 03.10.2019 07:10:42
+images6-1570075853293.jpg, time - 03.10.2019 07:10:53
+images7-1570075853928.jpg, time - 03.10.2019 07:10:53
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-10, video_after-5, video_before-24
+images1-1570088499025.jpg, time - 03.10.2019 10:41:39
+images2-1570088523025.jpg, time - 03.10.2019 10:42:03
+images3-1570088531882.Y774CT56RUS.car.jpg, time - 03.10.2019 10:42:11
+images4-1570088531882.Y774CT56RUS.plate.jpg, time - 03.10.2019 10:42:11
+images5-1570088516234.jpg, time - 03.10.2019 10:41:56
+images6-1570088526454.jpg, time - 03.10.2019 10:42:06
+images7-1570088526486.jpg, time - 03.10.2019 10:42:06
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-8, video_after-5, video_before-9
+images1-1570091648147.jpg, time - 03.10.2019 11:34:08
+images2-1570091657289.jpg, time - 03.10.2019 11:34:17
+images3-1570091653575.Y799HE799RUS.car.jpg, time - 03.10.2019 11:34:13
+images4-1570091653575.Y799HE799RUS.plate.jpg, time - 03.10.2019 11:34:13
+images5-1570091659238.jpg, time - 03.10.2019 11:34:19
+images6-1570091667003.jpg, time - 03.10.2019 11:34:27
+images7-1570091667247.jpg, time - 03.10.2019 11:34:27
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-17, video_after-5, video_before-31
+images1-1570082028730.jpg, time - 03.10.2019 08:53:48
+images2-1570082060159.jpg, time - 03.10.2019 08:54:20
+images3-1570082053016.TRIAL.car.jpg, time - 03.10.2019 08:54:13
+images4-1570082053016.TRIAL.plate.jpg, time - 03.10.2019 08:54:13
+images5-1570082051187.jpg, time - 03.10.2019 08:54:11
+images6-1570082069301.jpg, time - 03.10.2019 08:54:29
+images7-1570082069181.jpg, time - 03.10.2019 08:54:29
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-5, video_after-5, video_before-15
+images1-1570076460722.jpg, time - 03.10.2019 07:21:00
+images2-1570076476436.jpg, time - 03.10.2019 07:21:16
+images3-1570076471579.X011BE750RUS.car.jpg, time - 03.10.2019 07:21:11
+images4-1570076471579.X011BE750RUS.plate.jpg, time - 03.10.2019 07:21:11
+images5-1570076501909.jpg, time - 03.10.2019 07:21:41
+images6-1570076507579.jpg, time - 03.10.2019 07:21:47
+images7-1570076507677.jpg, time - 03.10.2019 07:21:47
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-8, video_after-5, video_before-11
+images1-1570081516449.jpg, time - 03.10.2019 08:45:16
+images2-1570081527877.jpg, time - 03.10.2019 08:45:27
+images3-1570081518735.TRIAL.car.jpg, time - 03.10.2019 08:45:18
+images4-1570081518735.TRIAL.plate.jpg, time - 03.10.2019 08:45:18
+images5-1570081527460.jpg, time - 03.10.2019 08:45:27
+images6-1570081536734.jpg, time - 03.10.2019 08:45:36
+images7-1570081536179.jpg, time - 03.10.2019 08:45:36
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-5, video_after-5, video_before-23
+images1-1570080417864.jpg, time - 03.10.2019 08:26:57
+images2-1570080441007.jpg, time - 03.10.2019 08:27:21
+images3-1570080495007.X042BC799RUS.car.jpg, time - 03.10.2019 08:28:15
+images4-1570080495007.X042BC799RUS.plate.jpg, time - 03.10.2019 08:28:15
+images5-1570080462453.jpg, time - 03.10.2019 08:27:42
+images6-1570080467578.jpg, time - 03.10.2019 08:27:47
+images7-1570080467715.jpg, time - 03.10.2019 08:27:47
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-5, video_after-5, video_before-22
+images1-1570085175873.jpg, time - 03.10.2019 09:46:15
+images2-1570085198158.jpg, time - 03.10.2019 09:46:38
+images3-1570085187873.TRIAL.car.jpg, time - 03.10.2019 09:46:27
+images4-1570085187873.TRIAL.plate.jpg, time - 03.10.2019 09:46:27
+images5-1570085221708.jpg, time - 03.10.2019 09:47:01
+images6-1570085227016.jpg, time - 03.10.2019 09:47:07
+images7-1570085227326.jpg, time - 03.10.2019 09:47:07
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-18, video_after-5, video_before-192
+images1-1570077587018.jpg, time - 03.10.2019 07:39:47
+images2-1570077779881.jpg, time - 03.10.2019 07:42:59
+images3-1570077845025.X171YX77RUS.car.jpg, time - 03.10.2019 07:44:05
+images4-1570077845025.X171YX77RUS.plate.jpg, time - 03.10.2019 07:44:05
+images5-1570077823134.jpg, time - 03.10.2019 07:43:43
+images6-1570077841596.jpg, time - 03.10.2019 07:44:01
+images7-1570077841425.jpg, time - 03.10.2019 07:44:01
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-14, video_after-5, video_before-9
+images1-1570079940151.jpg, time - 03.10.2019 08:19:00
+images2-1570079949579.jpg, time - 03.10.2019 08:19:09
+images3-1570079947008.X181YC150RUS.car.jpg, time - 03.10.2019 08:19:07
+images4-1570079947008.X181YC150RUS.plate.jpg, time - 03.10.2019 08:19:07
+images5-1570079943917.jpg, time - 03.10.2019 08:19:03
+images6-1570079958436.jpg, time - 03.10.2019 08:19:18
+images7-1570079958190.jpg, time - 03.10.2019 08:19:18
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-25, video_after-5, video_before-34
+images1-1570084007018.jpg, time - 03.10.2019 09:26:47
+images2-1570084041303.jpg, time - 03.10.2019 09:27:21
+images3-1570084011589.X185CE190RUS.car.jpg, time - 03.10.2019 09:26:51
+images4-1570084011589.X185CE190RUS.plate.jpg, time - 03.10.2019 09:26:51
+images5-1570084031456.jpg, time - 03.10.2019 09:27:11
+images6-1570084056732.jpg, time - 03.10.2019 09:27:36
+images7-1570084056717.jpg, time - 03.10.2019 09:27:36
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-14, video_after-5, video_before-32
+images1-1570084920728.jpg, time - 03.10.2019 09:42:00
+images2-1570084953014.jpg, time - 03.10.2019 09:42:33
+images3-1570084925300.TRIAL.car.jpg, time - 03.10.2019 09:42:05
+images4-1570084925300.TRIAL.plate.jpg, time - 03.10.2019 09:42:05
+images5-1570084951455.jpg, time - 03.10.2019 09:42:31
+images6-1570084965300.jpg, time - 03.10.2019 09:42:45
+images7-1570084965512.jpg, time - 03.10.2019 09:42:45
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-8, video_after-5, video_before-6
+images1-1570090770152.jpg, time - 03.10.2019 11:19:30
+images2-1570090776724.jpg, time - 03.10.2019 11:19:36
+images3-1570090810724.X337KX799RUS.car.jpg, time - 03.10.2019 11:20:10
+images4-1570090810724.X337KX799RUS.plate.jpg, time - 03.10.2019 11:20:10
+images5-1570090793251.jpg, time - 03.10.2019 11:19:53
+images6-1570090801295.jpg, time - 03.10.2019 11:20:01
+images7-1570090801258.jpg, time - 03.10.2019 11:20:01
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-6, video_after-5, video_before-9
+images1-1570078474446.jpg, time - 03.10.2019 07:54:34
+images2-1570078484160.jpg, time - 03.10.2019 07:54:44
+images3-1570078480446.X400AK777RUS.car.jpg, time - 03.10.2019 07:54:40
+images4-1570078480446.X400AK777RUS.plate.jpg, time - 03.10.2019 07:54:40
+images5-1570078485944.jpg, time - 03.10.2019 07:54:45
+images6-1570078492445.jpg, time - 03.10.2019 07:54:52
+images7-1570078492473.jpg, time - 03.10.2019 07:54:52
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-10, video_after-5, video_before-7
+images1-1570073977862.jpg, time - 03.10.2019 06:39:37
+images2-1570073985576.jpg, time - 03.10.2019 06:39:45
+images3-1570073982147.X422OK50RUS.car.jpg, time - 03.10.2019 06:39:42
+images4-1570073982147.X422OK50RUS.plate.jpg, time - 03.10.2019 06:39:42
+images5-1570073994404.jpg, time - 03.10.2019 06:39:54
+images6-1570074005005.jpg, time - 03.10.2019 06:40:05
+images7-1570074005103.jpg, time - 03.10.2019 06:40:05
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-11, video_after-5, video_before-6
+images1-1570075049594.jpg, time - 03.10.2019 06:57:29
+images2-1570075056165.jpg, time - 03.10.2019 06:57:36
+images3-1570075055879.X477AO750RUS.car.jpg, time - 03.10.2019 06:57:35
+images4-1570075055879.X477AO750RUS.plate.jpg, time - 03.10.2019 06:57:35
+images5-1570075049892.jpg, time - 03.10.2019 06:57:29
+images6-1570075061308.jpg, time - 03.10.2019 06:57:41
+images7-1570075061198.jpg, time - 03.10.2019 06:57:41
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-11, video_after-5, video_before-14
+images1-1570081246163.jpg, time - 03.10.2019 08:40:46
+images2-1570081260735.jpg, time - 03.10.2019 08:41:00
+images3-1570081250735.X804KM77RUS.car.jpg, time - 03.10.2019 08:40:50
+images4-1570081250735.X804KM77RUS.plate.jpg, time - 03.10.2019 08:40:50
+images5-1570081257921.jpg, time - 03.10.2019 08:40:57
+images6-1570081269592.jpg, time - 03.10.2019 08:41:09
+images7-1570081269171.jpg, time - 03.10.2019 08:41:09
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-7, video_after-5, video_before-11
+images1-1570082164729.jpg, time - 03.10.2019 08:56:04
+images2-1570082176158.jpg, time - 03.10.2019 08:56:16
+images3-1570082186729.X807HH77RUS.car.jpg, time - 03.10.2019 08:56:26
+images4-1570082186729.X807HH77RUS.plate.jpg, time - 03.10.2019 08:56:26
+images5-1570082186168.jpg, time - 03.10.2019 08:56:26
+images6-1570082193015.jpg, time - 03.10.2019 08:56:33
+images7-1570082193700.jpg, time - 03.10.2019 08:56:33
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-14, video_after-5, video_before-4
+images1-1570079414439.jpg, time - 03.10.2019 08:10:14
+images2-1570079418725.jpg, time - 03.10.2019 08:10:18
+images3-1570079423010.X855XP777RUS.car.jpg, time - 03.10.2019 08:10:23
+images4-1570079423010.X855XP777RUS.plate.jpg, time - 03.10.2019 08:10:23
+images5-1570079408930.jpg, time - 03.10.2019 08:10:08
+images6-1570079423582.jpg, time - 03.10.2019 08:10:23
+images7-1570079423455.jpg, time - 03.10.2019 08:10:23
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-7, video_after-5, video_before-7
+images1-1570084815586.jpg, time - 03.10.2019 09:40:15
+images2-1570084823300.jpg, time - 03.10.2019 09:40:23
+images3-1570084819586.TRIAL.car.jpg, time - 03.10.2019 09:40:19
+images4-1570084819586.TRIAL.plate.jpg, time - 03.10.2019 09:40:19
+images5-1570084819984.jpg, time - 03.10.2019 09:40:19
+images6-1570084827014.jpg, time - 03.10.2019 09:40:27
+images7-1570084827460.jpg, time - 03.10.2019 09:40:27
+
+complex_name - SD7700216, delta-0, factor-1, patch - /home/user/Desktop/Images_2019-10-03_16_31_44/, traffic_light_time-7, video_after-5, video_before-45
+images1-1570085299873.jpg, time - 03.10.2019 09:48:19
+images2-1570085345302.jpg, time - 03.10.2019 09:49:05
+images3-1570085343302.X880YO77RUS.car.jpg, time - 03.10.2019 09:49:03
+images4-1570085343302.X880YO77RUS.plate.jpg, time - 03.10.2019 09:49:03
+images5-1570085351483.jpg, time - 03.10.2019 09:49:11
+images6-1570085358730.jpg, time - 03.10.2019 09:49:18
+images7-1570085358984.jpg, time - 03.10.2019 09:49:18
+
